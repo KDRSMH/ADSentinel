@@ -1,7 +1,7 @@
-# ADWatchdog 🐾
+# ADSentinel
 > Active Directory Security Audit & Hardening Tool
 
-ADWatchdog detects misconfigurations and security vulnerabilities
+ADSentinel detects misconfigurations and security vulnerabilities
 in Active Directory environments.
 
 ## Features (Roadmap)
