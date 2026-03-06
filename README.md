@@ -1,4 +1,4 @@
-# ADSentinel
+# ADSentinel🛡️
 > Active Directory Security Audit & Hardening Tool
 
 ADSentinel detects misconfigurations and security vulnerabilities
@@ -12,11 +12,11 @@ in Active Directory environments.
 - [ ] HTML/JSON reporting
 - [ ] Web dashboard
 
-## Installation
+## Installation⬇️
 
 
-## Usage
+## Usage💻
 
-## Author
+## Author👾
 Semih Kadir Yıldırım
 
